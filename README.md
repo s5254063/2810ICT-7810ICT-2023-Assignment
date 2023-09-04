@@ -28,6 +28,8 @@ It is important to note that submission of this assignment is a requirement for 
 
 ### Part B – Statistical Data Analysis and Presentation (35%, Due Sunday 8th October)
 
+Peer Review will be used in Part-B.
+
 #### Submission Requirements
 This assignment must be submitted online via L@G under the assessment page. Only 1 submission per group is needed. Your submission should include:
 - All *.py files containing the data analysis program
