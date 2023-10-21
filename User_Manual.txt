@@ -1,0 +1,40 @@
+Description of How to Use the Data Analysis Tool for Sydney AirBnb 
+
+The tool gives the following features 
+
+1. For a fixed start_Date and fixed end_date and fixed suburb report the information of all listings in a specified suburb
+
+2. For a fixed start_Date and fixed end_date, produce a chart to show the distribution of prices of properties
+
+3. For a fixed start_Date and fixed end_date, retrieve all records that contain a keyword (user entered), e.g. pool, pet.
+
+4. Analysing how many customers commented on factors related to cleanliness (multiple key words may be associated with cleanliness – justify your selection). 
+
+5. Give Data Visualisation of Average ratings of the AirBnB Scenario in Sydney 
+
+6. Give Data Visualisation of Most Popular Neighbourhoods in Sydney AirBnB Scenario
+
+1. Required Modules 
+   1. pandas
+   2. matlabplot
+   3. wx
+   4. seaborn
+
+
+2. Put the CSV files listings_dec18.csv,calender_dec18 and reviews_dec18 in the current directory where main.py is 
+
+3. Run the main.py program 
+
+4. Program Faults (Known )
+
+   1. The text boxes don't appear 
+   2. Hence the dates and keywords for suburbs, amenities and cleanliness factors are hardcoded in the program 
+   3. The results for listings and listings with amenities don't show on the grid in a window 
+   4. CSV files are created with results.
+   5. For the listings, listings_avail.csv is created in the current directory main.py is 
+   6. For the listings with amenities listings_amenities_avail.csv is created in the current directory main.py 
+
+5. Detailed Explanation is given in Software Design Document
+
+
+
